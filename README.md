@@ -14,6 +14,7 @@ npm i
 ```shell
 cd frontend
 npm i
+npm run dev
 ```
 
 #### Swaptoken example (Kovan)
