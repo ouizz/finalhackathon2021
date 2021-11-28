@@ -5,8 +5,14 @@
 
 #### Download and Install
 ```shell
-git clone https://github.com/ouizz/datafeed
-cd datafeed
+git clone https://github.com/ouizz/finalhackathon2021
+cd finalhackathon2021
+npm i
+```
+
+#### Frontend and Install
+```shell
+cd frontend
 npm i
 ```
 
